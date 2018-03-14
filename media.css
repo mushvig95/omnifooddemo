@@ -259,6 +259,10 @@ blockquote {
 		font-size: 26px;
 	}
 
+	.customers {
+		background-attachment: scroll;
+	}
+
 	header {
 		background-attachment: scroll;
 	}
